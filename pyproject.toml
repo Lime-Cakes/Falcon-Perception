@@ -37,7 +37,6 @@ dependencies = [
     # Core (framework-agnostic)
     "einops>=0.8.1",
     "numpy>=1.24",
-    "pillow>=12.0.0",
     "tokenizers>=0.21.0",
     "datasets>=4.5.0",
     "pycocotools>=2.0.11",
